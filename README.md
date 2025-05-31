@@ -12,5 +12,8 @@ JavaFX Desktop Application to manage and track your watched and planned movies.
 - JavaFX
 - Scene Builder (FXML)
 
+## UI Lang
+Greek
+
 ## Author
 Anestis Laparidis
